@@ -1,0 +1,18 @@
+.condition-container-loading, .forecast-cards-loading {
+    width: 111px;
+    height: 75px;
+    background-color: #aabcaa;
+}
+
+.location-details-loading {
+    width: 234px;
+    height: 25px;
+    background-color: #cbd7cb;
+    /* margin-bottom: 40px; */
+}
+
+.time-details-loading {
+    width: 126px;
+    height: 18px;
+    background-color: #cad8ca;
+}
