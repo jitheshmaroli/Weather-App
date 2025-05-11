@@ -1,7 +1,5 @@
 import Forecast from "./components/Forecast.jsx"
 
-
-
 const App = () => {
   return (
     <>
